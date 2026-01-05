@@ -12,8 +12,8 @@
 ## Transformer Architecture
 
 Primarily composed of two blocks
-    * Encoder(left)
-    * Decoder(right)
+- Encoder(left)
+- Decoder(right)
 
 
 
