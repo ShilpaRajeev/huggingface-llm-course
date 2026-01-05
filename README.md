@@ -5,6 +5,6 @@ It contains notes, code snippets, experiments, summaries, and reflections as I b
 ## Overview
 - Course: Hugging Face LLM Course​
 - Focus: Theory + hands-on experiments
-- Goal: Build intuition, confidence, and real-world skills in LLMs​
+- Goal: Learn more about LLMs​
 - My background: Master’s student in AI, using this repo to deepen understanding and track hands-on practice.
 
