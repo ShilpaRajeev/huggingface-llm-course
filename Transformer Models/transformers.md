@@ -12,8 +12,8 @@
 ## Transformer Architecture
 
 Primarily composed of two blocks
-- Encoder(left)
-- Decoder(right)
+- Encoder(left) - The encoder receives an input and builds a representation of it (its features). The model is optimized to acquire understanding from the input.
+- Decoder(right) - The decoder uses the encoder’s representation (features) along with other inputs to generate a target sequence. 
 
 
 
